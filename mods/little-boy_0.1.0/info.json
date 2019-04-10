@@ -1,0 +1,11 @@
+{
+    "name": "little-boy",
+    "version": "0.1.0",
+    "title": "Little Boy",
+    "author": "Brain",
+    "contact": "",
+    "homepage": "",
+    "factorio_version": "0.17",
+    "dependencies": ["base >= 0.17"],
+    "description": "This mod creates a different atomic rocket that is 10x powerful."
+}
